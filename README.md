@@ -1,2 +1,3 @@
 # AnimeListBot
-Telegram anime list bot
+Telegram anime list bot with DB
+
